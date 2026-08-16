@@ -22,7 +22,7 @@
 <div align="center">
   <!-- Animated floating skill icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,react,nodejs,flutter,mysql,postgres,git&perline=12" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,react,nodejs,flutter,mysql,git&perline=12" alt="Skill Icons" />
   </a>
   <br/>
   <p><i>Plus deep expertise in Salesforce Marketing Cloud, AMPScript, SSJS, and Vector Databases.</i></p>
