@@ -10,6 +10,25 @@
 
 <br/>
 
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href="mailto:stonio2@illinois.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/steveaby"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://steveaby.github.io/Personal_Website/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+</div>
+
+
 ### 🚀 Quick Brief
 *   🎓 Pursuing my **M.S. in Computer Science** at the **University of Illinois Urbana-Champaign** *(Expected May 2027)*.
 *   💼 Recently wrapped up a **Platform Implementation Internship** at **Morgan Stanley** in Seattle. 
@@ -89,21 +108,3 @@ When my code is compiling, I'm usually:
 </div>
 
 <br/>
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <a href="mailto:stonio2@illinois.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/steveaby"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://steveaby.github.io/Personal_Website/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-</div>
