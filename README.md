@@ -98,7 +98,6 @@ When my code is compiling, I'm usually:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/steveaby/steveaby/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <small><i>Setup the <a href="https://github.com/Platane/snk">Snake Action</a> in your repository to see the snake eat your contribution graph!</i></small>
 </div>
 
 <hr/>
